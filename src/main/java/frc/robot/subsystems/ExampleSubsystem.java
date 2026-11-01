@@ -23,7 +23,7 @@ public class ExampleSubsystem extends SubsystemBase {
     // Subsystem::RunOnce implicitly requires `this` subsystem.
     return runOnce(
         () -> {
-          /* one-time action goes here */
+          // bjtoibjetoibjet
         });
   }
 
@@ -39,7 +39,7 @@ public class ExampleSubsystem extends SubsystemBase {
 
   @Override
   public void periodic() {
-    // This method will be called once per scheduler run
+
   }
 
   @Override
